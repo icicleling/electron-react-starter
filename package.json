@@ -1,12 +1,12 @@
 {
-  "name": "command-line-box",
+  "name": "electron-react-starter",
   "version": "0.1.0",
   "private": true,
   "main": "main.js",
   "homepage": ".",
   "author": {
-    "name": "icicle",
-    "email": "unknown@icicleling.com"
+    "name": "your name",
+    "email": "yourname@example.com"
   },
   "description": "My Electron application description",
   "dependencies": {
@@ -72,7 +72,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "command_line_box"
+            "name": "electron_react_starter"
           }
         },
         {
