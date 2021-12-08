@@ -52,7 +52,7 @@
     "cross-env": "^7.0.3",
     "electron": "^16.0.4",
     "wait-on": "^6.0.0",
-    "@testing-library/jest-dom": "^5.15.1",
+    "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.0.3",
