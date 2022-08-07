@@ -11,8 +11,8 @@
   "description": "My Electron application description",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "scripts": {
     "start": "concurrently -s first -k \"cross-env BROWSER=none npm run start:react\" \"npm run start:electron\"",
@@ -43,7 +43,7 @@
     ]
   },
   "devDependencies": {
-    "@electron-forge/cli": "^6.0.0-beta.63",
+    "@electron-forge/cli": "^6.0.0-beta.65",
     "@electron-forge/maker-deb": "^6.0.0-beta.63",
     "@electron-forge/maker-rpm": "^6.0.0-beta.63",
     "@electron-forge/maker-squirrel": "^6.0.0-beta.63",
